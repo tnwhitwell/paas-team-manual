@@ -14,11 +14,11 @@ Once you have the figures, update these in the [billing tracker](https://docs.go
 
 3. Ascertain how often the GOV.UK PaaS needs to send a department’s bill. The below table gives an indication of how often it is appropriate to bill. Agree bill frequency with the organisation’s billing manager. Record the frequency in the Billing Frequency column in the billing tracker.
 
-| __Approx. billable amount per month__ | __Billing frequency__ |
-| --- | --- |
-| < £500 | 6 monthly |
-| £500-£5000 | Quarterly |
-| > £5000 | Monthly |
+  | __Approx. billable amount per month__ | __Billing frequency__ |
+  | --- | --- |
+  | < £500 | 6 monthly |
+  | £500-£5000 | Quarterly |
+  | > £5000 | Monthly |
 
 4. Send the billing manager the following email, attaching a pdf version of their billing statement:
 
